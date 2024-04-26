@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook detailing the steps taken to clean a dataset from a call centre. The primary goal of this project is to prepare a clean, structured list of customers who can be contacted based on the provided data.
 
 ## Features
-- **Data Import:** Load data from an Excel file into a pandas DataFrame.
+- **Data Import:** Load data from an Excel file (`Customer Call List.xlsx`) into a pandas DataFrame.
 - **Data Cleaning:**
   - Remove duplicate records to ensure data uniqueness.
   - Strip unwanted characters and correct formatting in names and phone numbers.
