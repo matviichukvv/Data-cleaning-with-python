@@ -1,5 +1,7 @@
+# !Synthetic Data!
+
 # Data Cleaning with Python Project
-My client, a call center, was struggling with employees wasting time due to incorrect or incomplete data, particularly when trying to find the correct phone numbers. I solved this problem using Python with Pandas in Jupyter, ensuring that the call center's customer contact list was accurate and ready for use.
+In this project, I helped fix issues in a call center's customer list to make sure their phone numbers were correct and easy to find. I used Python and Pandas in Jupyter to clean up the data and get it ready for use.
 
 **Work Done**
 - Removed duplicate records to eliminate redundancies.
